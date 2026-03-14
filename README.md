@@ -108,7 +108,7 @@ docs/CMAC_SecurBoot.pdf
 
 You can view it directly on GitHub:
 
-[View Project Report (PDF)](CMAC_SecurBoot.pdf)
+![View Project Report (PDF)](CMAC_SecureBoot.pdf)
 
 ---
 
