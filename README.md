@@ -103,7 +103,7 @@ AES-CMAC (Cipher-based Message Authentication Code) provides both integrity and 
 Full project documentation including system design, security rationale, and implementation details is available in:
 
 ```
-docs/CMAC_SecurBoot.pdf
+CMAC_SecurBoot.pdf
 ```
 
 You can view it directly on GitHub:
